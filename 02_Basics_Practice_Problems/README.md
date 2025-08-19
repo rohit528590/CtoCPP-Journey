@@ -170,7 +170,7 @@ int main() {
     float number;
     cout << "Enter a number: ";
     cin >> number;
-    printf("Result: %.2f\n", number * 2);
+    cout<<"Result: "<<number * 2<<"\n";
     return 0;
 }
 ```

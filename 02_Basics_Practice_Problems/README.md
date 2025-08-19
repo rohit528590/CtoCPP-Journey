@@ -1,8 +1,8 @@
-# 🚀 C Programming: Basic Practice Problems
+# 🚀 C++ Programming: Basic Practice Problems
 
 <div align="center">
 
-[![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++ Programming](https://img.shields.io/badge/Language-C++-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Practice](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/rohit528590/CtoCPP-Journey/tree/main/02_Basics_Practice_Problems)
 [![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg)](https://github.com/rohit528590/CtoCPP-Journey/tree/main/02_Basics_Practice_Problems)
 [![Files](https://img.shields.io/badge/Code%20Files-22-orange.svg)](https://github.com/rohit528590/CtoCPP-Journey/tree/main/02_Basics_Practice_Problems)

@@ -505,9 +505,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 ### 🌟 Topics Awaiting You
 
-- **⚙️ Functions & Modularity**: Build reusable code with parameter optimization and modular design patterns
-- **🔄 Recursive Algorithms**: Master divide-and-conquer techniques with stack optimization and iterative conversions
-- **📊 Data Structures & Arrays**: Implement multi-dimensional arrays, matrix operations, and efficient memory management
+- **⚙️ Functions & Modularity**: Build reusable code with parameter optimization and modular design patterns.
+- **🔄 Recursive Algorithms**: Master divide-and-conquer techniques with stack optimization and iterative conversions.
+- **📊 Data Structures & Arrays**: Implement multi-dimensional arrays, matrix operations, and efficient memory management.
 
 ---
 

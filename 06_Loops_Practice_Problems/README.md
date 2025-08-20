@@ -235,7 +235,7 @@ Ready to level up your C++ programming journey? Here's your personalized learnin
 
 - 📄 **Functions**: Creating functions 🔧 for repetitive tasks
 - 🔁 **Recursion**: Creating recursive functions 🔃 for efficient problem-solving
-- 📈 **Data Structures**: Arrays 📊 for storing and manipulating sequences, 2D Arrays 📋 for matrix operations
+- 📈 **Data Structures**: Arrays 📊 for storing and manipulating sequences, 2D Arrays 📋 for matrix operations.
 
 ---
 

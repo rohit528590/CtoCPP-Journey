@@ -329,7 +329,6 @@ Ready to level up your C programming journey? Here's your personalized learning 
 - **Loops**: Master `for`, `while`, `do-while` iterations with 50+ challenges
 - **Patterns**: Generate complex geometric designs through nested loops  
 - **Functions**: Build modular, reusable code with parameter passing
-- **Recursion**: Solve complex problems through elegant self-calling algorithms
 
 ---
 

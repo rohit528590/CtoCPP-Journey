@@ -282,5 +282,5 @@ Ready to level up your C++ programming journey? Here's your personalized learnin
 </div>
 
 <div align="center">
-<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CtoCPP-Journey">CtoCPP-Journey Project</a></sub>
+<sub>Built with ❤️ for C++ programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CtoCPP-Journey">CtoCPP-Journey Project</a></sub>
 </div>

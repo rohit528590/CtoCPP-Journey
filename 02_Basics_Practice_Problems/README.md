@@ -249,10 +249,10 @@ Ready to level up your C++ programming journey? Here's your personalized learnin
 
 ### 🌟 Topics Awaiting You
 
-- **Conditional Logic**: `if`, `else`, `else if` statements for decision making
+- **Conditional Logic**: `if`, `else`, `else if` statements for decision making 💡
 - **Loop Structures**: `for`, `while`, `do-while` iterations for repetitive tasks
-- **Pattern Generation**: Visual patterns and mathematical sequences using loops
-- **Control Flow**: `break`, `continue`, and nested structures
+- **Pattern Generation**: Visual patterns and mathematical sequences using loops 🎨
+- **Control Flow**: `break`, `continue`, and nested structures 🔁
 
 ---
 

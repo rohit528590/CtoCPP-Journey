@@ -293,11 +293,11 @@ printf("Hello\nWorld\t2024\n");
 
 ## 🎓 What's Next?
 
-Ready to level up your C programming journey? Here's your personalized learning roadmap:
+Ready to level up your C++ programming journey? Here's your personalized learning roadmap:
 
 ### 🚀 Immediate Next Challenge
 
-- **[📚 Basic Practice Problems](../02_Basics_Practice_Problems)** - Master C fundamentals through 22 progressive coding challenges with detailed solutions and comprehensive explanations
+- **[📚 Basic Practice Problems](../02_Basics_Practice_Problems)** - Master C++ fundamentals through 22 progressive coding challenges with detailed solutions and comprehensive explanations
 
 ### 🌟 Topics Awaiting You
 

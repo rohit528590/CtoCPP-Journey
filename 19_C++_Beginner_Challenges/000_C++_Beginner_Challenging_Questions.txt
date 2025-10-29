@@ -1,5 +1,5 @@
-# 100+ C Programming Challenges for Beginners to Master the Fundamentals and Problem Solving Skills
-===================================================================================================
+# 100+ C++ Programming Challenges for Beginners to Master the Fundamentals and Problem Solving Skills
+=====================================================================================================
 
 # Variables, Data Types & Input/Output 🌍
 =========================================

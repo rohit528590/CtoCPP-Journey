@@ -28,10 +28,12 @@ int main()
         sum_of_reversed += temp % 10;
         temp /= 10;
     }
-
+    
     // Output
     cout << "The sum of digits of " << original << " is : " << sum_of_num << endl;
     cout << "The sum of digits of its reverse (" << reversed << ") is : " << sum_of_reversed << endl;
+
     cout << "Total sum : " << sum_of_num + sum_of_reversed << endl;
     return 0;
+
 }
